@@ -49,7 +49,7 @@ body {
 
 #main-header {
     display: grid;
-    background-image: url(img/main-header-image.jpg);
+    background-image: url(Images/main-header-image.jpg);
 }
 #main-header h1{
     text-align: center;
