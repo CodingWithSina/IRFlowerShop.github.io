@@ -11,7 +11,7 @@ body {
 /*.....................Id................. */
 #main-header {
     display: grid;
-    background-image: url(img/main-header-image.jpg);
+    background-image: url(main-header-image.jpg);
 }
 #main-header h1{
     float: left;
